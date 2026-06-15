@@ -1,0 +1,5 @@
+                       DIV     ADD     LW      SW      BEQ     
+                       N   D   N   D   N   D   N   D   N   D  
+         operand rs1/2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2
+issue_s1               0 0 1 1 0 0 0 0 0 0 1 0 0 0 1 0 0 0 1 1 
+iso_4                  0 0 1 1 0 0 0 0 0 0 1 0 0 0 1 0 0 0 1 1 

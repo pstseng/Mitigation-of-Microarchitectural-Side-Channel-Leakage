@@ -1,0 +1,5 @@
+                       DIV     ADD     LW      SW      BEQ     
+                       N   D   N   D   N   D   N   D   N   D  
+         operand rs1/2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2
+serdiv_unit_divide_s1  1 1 1 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 1 
+iso_4                  1 1 1 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 1 

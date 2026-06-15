@@ -1,0 +1,17 @@
+================ Attack Evaluation Results ================
+
+=== NUM_SECRETS = 200 ===
+Noise1: 200
+Noise2: 200
+Noise3: 200
+Noise4: 200
+Noise5: 200
+Noise6: 200
+
+=== NUM_SECRETS = 300 ===
+Noise1: 300
+Noise2: 300
+Noise3: 300
+Noise4: 300
+Noise5: 300
+Noise6: 300
